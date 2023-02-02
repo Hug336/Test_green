@@ -1,6 +1,18 @@
-### Décroissance
+# Décroissance
 
-* _VERS LA SOBRIÉTÉ HEUREUSE_ <br>- Pierre Rhabi
+<p style="text-align: center;">VERS LA SOBRIÉTÉ HEUREUSE</p>  
+
+![Alt text](../Vers_la_sobri%C3%A9t%C3%A9_heureuse.jpg)
+
+<br> Pierre Rhabi
+
+<details>
+  <summary>Click me</summary>
+  
+  > Opinion de quelqu'un
+</details>
+
+___
 
 * _AUX ORIGINES DE LA DÉCROISSANCE: CINQUANTE PENSEURS_ <br>- Cédric Biagini, David Murray, Pierre Thiesset
 > Semble être une belle intro au sujet

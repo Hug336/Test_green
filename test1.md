@@ -1,7 +1,7 @@
 This is a test
 
 
-[<img src="/Vers_la_sobri%C3%A9t%C3%A9_heureuse.jpg" alt="text"/>](http://google.com.au/)
+[<img src="/livres.jpg" alt="text" width="50%"/>](Livres/Décroissance.md)
 
 
 # Notes générales

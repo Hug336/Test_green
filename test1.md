@@ -7,6 +7,9 @@ Chercher sur les 9 limites planétaires: comment réellement avoir un impact <br
 (Chercher à modifier la façon de penser avant tout??)
 
 
+Référence à [décroissance](Livres/Décroissance.md)
+
+
 
 # Livres
 

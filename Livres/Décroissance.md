@@ -1,16 +1,19 @@
 # Décroissance
 
-<p style="text-align: center;">VERS LA SOBRIÉTÉ HEUREUSE</p>  
 
-![Alt text](../Vers_la_sobri%C3%A9t%C3%A9_heureuse.jpg)
 
-<br> Pierre Rhabi
+| <div style="width:200px"></div> |    |
+| ---- | --- |
+| ![Alt text](../Vers_la_sobri%C3%A9t%C3%A9_heureuse.jpg) | <p style="text-align: center;">VERS LA SOBRIÉTÉ HEUREUSE <br> Pierre Rhabi </p> Pierre Rabhi a vingt ans à la fin des années 1950, lorsqu'il décide de se soustraire, par un retour à la terre, à la civilisation hors sol qu'ont commencé à dessiner sous ses yeux ce que l'on nommera plus tard les Trente Glorieuses. En France, il contemple un triste spectacle : aux champs comme à l'usine, l'homme est invité à accepter une forme d'anéantissement personnel à seule fin que tourne la machine économique.<br>L'économie ? Au lieu de gérer et répartir les ressources communes à l'humanité en déployant une vision à long terme, elle s'est contentée, dans sa recherche de croissance illimitée, d'élever la prédation au rang de science. Le lien viscéral avec la nature est rompu ; cette dernière n'est plus qu'un gisement de ressources à exploiter - et à épuiser. Au fil des expériences, une évidence s'impose : seul le choix de la modération de nos besoins et désirs, le choix d'une sobriété libératrice et volontairement consentie, permettra de rompre avec cet ordre anthropophage appelé "mondialisation".<br>Ainsi pourrons-nous remettre l'humain et la nature au coeur de nos préoccupations, et redonner enfin au monde légèreté et saveur.
 
 <details>
   <summary>Click me</summary>
   
-  > Opinion de quelqu'un
+  Mon opinion:<br>
+  Pierre Rabhi a vingt ans à la fin des années 1950, lorsqu'il décide de se soustraire, par un retour à la terre, à la civilisation hors sol qu'ont commencé à dessiner sous ses yeux ce que l'on nommera plus tard les Trente Glorieuses. En France, il contemple un triste spectacle : aux champs comme à l'usine, l'homme est invité à accepter une forme d'anéantissement personnel à seule fin que tourne la machine économique.<br>L'économie ? Au lieu de gérer et répartir les ressources communes à l'humanité en déployant une vision à long terme, elle s'est contentée, dans sa recherche de croissance illimitée, d'élever la prédation au rang de science. Le lien viscéral avec la nature est rompu ; cette dernière n'est plus qu'un gisement de ressources à exploiter - et à épuiser. Au fil des expériences, une évidence s'impose : seul le choix de la modération de nos besoins et désirs, le choix d'une sobriété libératrice et volontairement consentie, permettra de rompre avec cet ordre anthropophage appelé "mondialisation".<br>Ainsi pourrons-nous remettre l'humain et la nature au coeur de nos préoccupations, et redonner enfin au monde légèreté et saveur.
 </details>
+
+
 
 ___
 

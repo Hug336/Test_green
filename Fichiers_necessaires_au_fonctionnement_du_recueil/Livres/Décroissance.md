@@ -50,8 +50,7 @@ ___
 
 | | |
 | --- | --- |
-|<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Photos/eloge_de_la_simplicite_volontaire.jpg" alt="text" width="1500px"/> | <p align=center>ÉLOGE DE LA SIMPLICITÉ VOLONTAIRE<br> Hervé René Martin</p> <br> " Les notions d'évolution et de progrès sont éminemment subjectives, voire anecdotiques, comparées à l'urgence de la seule question qui vaille : Que m'est-il permis de faire sur un territoire donné où j'espère pouvoir vivre durablement ? Ne pas le détruire, ne pas le souiller inutilement, cueillir les fruits nécessaires à ma subsistance sans mettre en péril la vie de l'arbre qui les porte.
-" L'auteur nous livre ici le récit de son installation dans la haute vallée de l'Aude, où il construit, avec l'aide d'un jeune charpentier écologiste, sa maison en terre et en paille. Au fil des pages, entre chronique du quotidien et réflexions sur l' " état dans lequel nous avons mis le monde ", s'élève un chant au bonheur et à la simplicité. |
+|<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Photos/eloge_de_la_simplicite_volontaire.jpg" alt="text" width="1500px"/> | <p align=center>ÉLOGE DE LA SIMPLICITÉ VOLONTAIRE<br> Hervé René Martin</p> <br> "Les notions d'évolution et de progrès sont éminemment subjectives, voire anecdotiques, comparées à l'urgence de la seule question qui vaille : Que m'est-il permis de faire sur un territoire donné où j'espère pouvoir vivre durablement? Ne pas le détruire, ne pas le souiller inutilement, cueillir les fruits nécessaires à ma subsistance sans mettre en péril la vie de l'arbre qui les porte." L'auteur nous livre ici le récit de son installation dans la haute vallée de l'Aude, où il construit, avec l'aide d'un jeune charpentier écologiste, sa maison en terre et en paille. Au fil des pages, entre chronique du quotidien et réflexions sur "l'état dans lequel nous avons mis le monde", s'élève un chant au bonheur et à la simplicité. |
 | | |
 
 

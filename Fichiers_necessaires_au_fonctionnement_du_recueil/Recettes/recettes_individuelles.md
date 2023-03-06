@@ -35,6 +35,7 @@
 <details>
   <summary> Clique ici pour voir les astuces et les commentaires des autres chefs! </summary>
 
+Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
 
 </details>
 
@@ -82,6 +83,7 @@
 <details>
   <summary> Clique ici pour voir les astuces et les commentaires des autres chefs! </summary>
 
+Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
 
 </details>
 
@@ -128,6 +130,8 @@
 
 <details>
   <summary> Clique ici pour voir les astuces et les commentaires des autres chefs! </summary>
+
+Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
 
 
 </details>

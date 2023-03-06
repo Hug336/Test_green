@@ -38,7 +38,8 @@ Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 <details>
   <summary>Clique ici pour voir les témoignages sur L'ABC DE LA SIMPLICITÉ VOLONTAIRE!</summary>
-  
+
+Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
  
 </details>
 
@@ -58,7 +59,8 @@ Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 <details>
   <summary>Clique ici pour voir les témoignages sur LA DÉCROISSANCE: ENTROPIE, ÉCOLOGIE, ÉCONOMIE!</summary>
-  
+
+Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
  
 </details>
 
@@ -78,7 +80,8 @@ Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 <details>
   <summary>Clique ici pour voir les témoignages sur LA DÉCROISSANCE!</summary>
-  
+
+Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
  
 </details>
 
@@ -99,7 +102,8 @@ Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 <details>
   <summary>Clique ici pour voir les témoignages sur ÉLOGE DE LA SIMPLICITÉ VOLONTAIRE!</summary>
-  
+
+Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
  
 </details>
 
@@ -127,6 +131,9 @@ Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
  
  > 🚑: There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dict <br>
  > <p align=right>Jean Jean </p>
+
+
+Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
  
 </details>
 
@@ -145,6 +152,8 @@ ___
 
 <details>
   <summary>Clique ici pour voir les témoignages sur LA DÉCROISSANCE POUR TOUS!</summary>
+
+Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
   
 </details>
 

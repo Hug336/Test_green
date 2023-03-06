@@ -35,7 +35,7 @@
 <details>
   <summary> Clique ici pour voir les astuces et les commentaires des autres chefs! </summary>
 
-Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
+> Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
 
 </details>
 
@@ -83,7 +83,7 @@ Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYc
 <details>
   <summary> Clique ici pour voir les astuces et les commentaires des autres chefs! </summary>
 
-Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
+> Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
 
 </details>
 
@@ -131,7 +131,7 @@ Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYc
 <details>
   <summary> Clique ici pour voir les astuces et les commentaires des autres chefs! </summary>
 
-Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
+> Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
 
 
 </details>

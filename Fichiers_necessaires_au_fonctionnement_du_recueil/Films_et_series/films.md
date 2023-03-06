@@ -8,7 +8,7 @@
 <details>
   <summary>Voir les commentaires</summary>
 
-Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
+> Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
 
 </details>
 

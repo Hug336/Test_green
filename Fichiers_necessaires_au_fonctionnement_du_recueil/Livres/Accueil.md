@@ -17,21 +17,21 @@
 
 
 
-> 4. [**CLIMAT**](/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Climat.md)<br>
+> 3. [**CLIMAT**](/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Climat.md)<br>
 > nouveau test
 
 
 ---
 
 
-> 5. [**DÉCROISSANCE, SIMPLICITÉ VOLONTAIRE ET ZÉRO DÉCHET**](/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Decroissance.md)<br>
+> 4. [**DÉCROISSANCE, SIMPLICITÉ VOLONTAIRE ET ZÉRO DÉCHET**](/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Decroissance.md)<br>
 > En bref, c'est quoi la décroissance
 
 
 ---
 
 
-> 3. [**ENVIRONNEMENT ET BIODIVERSITÉ**](/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Biodiversite.md)<br>
+> 5. [**ENVIRONNEMENT ET BIODIVERSITÉ**](/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Biodiversite.md)<br>
 > nouveau test
 
 

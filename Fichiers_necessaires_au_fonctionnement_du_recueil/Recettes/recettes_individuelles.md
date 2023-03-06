@@ -28,7 +28,7 @@
 - Ajouter champignons, poivrons rouges, oignons verts, au mélange de tofu pour plus de légumes
 - *Le tofu ferme que j’utilise, et qui est le seul assez ferme selon moi, est le Unisoya, qui se trouve au IGA dans la section des fruits et légumes. Il est possible de faire la recette avec n’importe quel tofu ferme, c’est seulement la partie râpe à fromage qui va être retirée, et je propose de défaire le tofu avec vos mains directement.
 
-<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Recettes/Photos/tacos_fajitas_au_tofu.png" alt="text" width="1500px"/>
+<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Recettes/Photos/tacos_fajitas_au_tofu.png" alt="text"/>
 
 
 
@@ -76,14 +76,14 @@
 
 
 
+<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Recettes/Photos/tofu_general_tao_trois_ingredients.png" alt="text"/>
+  
+
 <details>
   <summary> Clique ici pour voir les astuces et les commentaires des autres chefs! </summary>
 
 
 </details>
-
-
-<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Recettes/Photos/tofu_general_tao_trois_ingredients.png" alt="text" width="1500px"/>
 
 </details>
 

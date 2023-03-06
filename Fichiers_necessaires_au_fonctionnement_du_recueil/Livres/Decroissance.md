@@ -22,6 +22,9 @@
 
 
 
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
+
 ---
 
 
@@ -37,6 +40,9 @@
   
  
 </details>
+
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 
 
@@ -56,6 +62,10 @@
 </details>
 
 
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
+
 ---
 
 | | |
@@ -70,6 +80,11 @@
   
  
 </details>
+
+
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
 
 --- 
 
@@ -86,6 +101,10 @@
   
  
 </details>
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
+
 
 ---
 
@@ -110,6 +129,7 @@
  
 </details>
 
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 
 ___
@@ -127,6 +147,7 @@ ___
   
 </details>
 
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 
 

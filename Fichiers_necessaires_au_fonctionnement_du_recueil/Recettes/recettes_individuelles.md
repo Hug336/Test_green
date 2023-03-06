@@ -1,4 +1,4 @@
-## Nom du chef
+## Chef Corinne Chouinard
 
 <details>
   <summary> TACOS/FAJITAS AU TOFU</summary>
@@ -46,7 +46,7 @@
   
 **TEMPS ESTIMÉ**: 20 min.<br>
 **QUALIFICATION**: :leaves: - Végétarienne<br>
-**SOURCE**: Recette de la cuisine de Jean-Philippe (implifiée)
+**SOURCE**: Recette de la cuisine de Jean-Philippe (simplifiée)
 
 **INGRÉDIENTS**
 - Tofu extra ferme
@@ -89,9 +89,74 @@
 
 
 
+
+<details>
+  <summary> NACHOS AU SANS VIANDE YVES</summary>
+  
+**TEMPS ESTIMÉ**: 20 min.<br>
+**QUALIFICATION**: :leaves: - Végétarienne<br>
+**SOURCE**: Manquante pour le moment. 
+
+**INGRÉDIENTS**
+- Un oignon
+- Un poivron rouge
+- Un paquet de sans viande Yves (à côté du tofu, dans la section des fruits et légumes)
+- Gros pot de salsa
+- Fromage râpé (tex mex miam pour cette recette)
+- Oignons verts, olives noires, crème sure, guacamole, tout ce que vous aimez mettre sur des nachos
+- Nachos
+- Fajitas pour manger le reste du mélange en reste le lendemain et éviter d’avoir des nachos tout mou*
+
+
+
+**INSTRUCTIONS**
+- Faire revenir les oignons et les poivrons coupés en petits cubes dans l’huile.
+- Ajouter le sans viande, puis une tasse d’eau, puis défaire le sans viande en petits morceaux avec une spatule.
+- Placer en ordre les éléments suivants sur une plaque allant au four (four à 450) : Nachos, salsa, fromage, mélange de sans viande quand il est chaud (mais pas au complet, voir note), autres garnitures allant au four.
+- Laisser au four jusqu'à ce que le fromage soit grillé. Manger.
+
+
+
+**NOTES DU CHEF**
+- *Comme j’ai mentionné, ne pas mettre le mélange au complet sur les nachos, ca fait trop. Meme chose pour tous les autres ingrédients, gardez vous en pour vous faire des tacos/fajitas le lendemain. Tu garoche toute la garniture, la salsa, le fromage, tout dans un seul plat, et t’apportes des tortillas séparément, puis le lendemain t’as juste à faire chauffer le plat, puis verser ca dans le tortillas.
+- Possible de faire du riz minute pour ajouter dans les fajitas, ca fait plus de lunchs et ca coute rien.
+
+
+
+<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Recettes/Photos/nachos_au_sans_viande_yves.png" alt="text"/>
+  
+
+<details>
+  <summary> Clique ici pour voir les astuces et les commentaires des autres chefs! </summary>
+
+
+</details>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
+
 ---
 
 ## Nom du chef 2
+
+
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 
 ---

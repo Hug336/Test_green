@@ -166,6 +166,31 @@ Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 
 
+
+| | |
+| --- | --- |
+|<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Photos/goodbye_things.jpg" alt="text" width="1500px"/> | <p align=center>GOODBYE, THINGS<br> Fumio Sasaki </p> <br> Fumio Sasaki is not an enlightened minimalism expert or organizing guru like Marie Kondo—he’s just a regular guy who was stressed out and constantly comparing himself to others, until one day he decided to change his life by saying goodbye to everything he didn’t absolutely need. The effects were remarkable: Sasaki gained true freedom, new focus, and a real sense of gratitude for everything around him. In Goodbye, Things Sasaki modestly shares his personal minimalist experience, offering specific tips on the minimizing process and revealing how the new minimalist movement can not only transform your space but truly enrich your life. The benefits of a minimalist life can be realized by anyone, and Sasaki’s humble vision of true happiness will open your eyes to minimalism’s potential. |
+| | |
+
+
+
+<details>
+  <summary>Clique ici pour voir les témoignages sur GOODBYE THINGS!</summary>
+
+> Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
+  
+</details>
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
+---
+
+
+
+
+
+
+
 ### Zéro déchet
 
 *  _POUR UNE GARDE ROBE RESPONSABLE_ <br>– Léonie Daignault-Leclerc

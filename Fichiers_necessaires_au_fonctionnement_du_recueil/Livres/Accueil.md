@@ -17,7 +17,7 @@
 
 
 
-> 3. [**CLIMAT**](/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Climat.md)<br>
+> 3. [**ÉNERGIE, POLLUTION ET CLIMAT**](/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Climat.md)<br>
 > nouveau test
 
 
@@ -31,7 +31,7 @@
 ---
 
 
-> 5. [**ENVIRONNEMENT ET BIODIVERSITÉ**](/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Biodiversite.md)<br>
+> 5. [**ÉCOLOGIE ET BIODIVERSITÉ**](/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Biodiversite.md)<br>
 > nouveau test
 
 

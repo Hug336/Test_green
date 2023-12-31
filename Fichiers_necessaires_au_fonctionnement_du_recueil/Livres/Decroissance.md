@@ -50,6 +50,47 @@ Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 ---
 
+
+| | |
+| --- | --- |
+|<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Photos/pour_une_garde_robe_responsable.jpg" alt="text" width="1500px"/> | <p align=center>POUR UNE GARDE-ROBE RESPONSABLE<br> Léonie Daignault-Leclerc </p> <br> Sensibiliser les gens aux enjeux éthiques et écologiques entourant l'industrie de la mode, voilà le défi que s'est lancé Léonie Daignault-Leclerc. Pour nous aider à faire de meilleurs choix, elle nous apprend à :- repérer les certifications permettant de s'assurer que nos vêtements ont été fabriqués dans un environnement respectueux des travailleurs; - identifier les fibres et les matériaux à privilégier pour une mode écologique et éthique envers les animaux;- déceler les indices de qualité d'un vêtement, gage de durabilité et;- maximiser l'utilisation de nos vêtements grâce à des achats réfléchis. Elle nous livre également ses trucs et ses conseils pour prendre soin de nos vêtements de façon écologique et responsable. Un livre indispensable pour changer nos habitudes de consommation et opter pour une mode écologique, éthique et durable.|
+| | |
+
+
+
+<details>
+  <summary>Clique ici pour voir les témoignages sur POUR UNE GARDE-ROBE RESPONSABLE!</summary>
+
+> Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
+ 
+</details>
+
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
+---
+
+| | |
+| --- | --- |
+|<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Photos/pour_une_garde_robe_responsable.jpg" alt="text" width="1500px"/> | <p align=center>TENDRE VERS LE ZÉRO DÉCHET<br>Mélissa de la Fontaine</p> <br> Mélissa de La Fontaine a amorcé un virage zéro déchet après avoir découvert ce mode de vie grâce à l'expérience de l'initiatrice du mouvement, la Franco-Américaine Béa Johnson. Dès lors, elle a décidé de revoir ses habitudes de consommation et de réduire au maximum son empreinte écologique. Son livre, Tendre vers le zéro déchet, est le fruit de cette démarche entreprise en 2013. Il retrace son parcours vers un mode de vie plus respectueux de l'environnement, enraciné dans un contexte québécois. L'auteure partage ses réflexions et propose une approche qui vise à consommer moins d'abord et à consommer mieux ensuite. Elle nous invite à une réflexion qui va bien au-delà du contenu de notre poubelle et nous livre ses conseils et ses outils pour nous aider à changer nos habitudes à l'intérieur et à l'extérieur de la maison, petit à petit, en respectant notre rythme et notre contexte de vie.|
+| | |
+
+
+
+<details>
+  <summary>Clique ici pour voir les témoignages sur TENDRE VERS LE ZÉRO DÉCHET!</summary>
+
+> Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
+ 
+</details>
+
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
+
+---
+
+
 | | |
 | --- | --- |
 |<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Photos/la_decroissance_entropie_ecologie_economie.jpg" alt="text" width="1500px"/> | <p align=center>LA DÉCROISSANCE: ENTROPIE, ÉCOLOGIE, ÉCONOMIE<br> Nicholas Georgescu-Roegen</p> <br> La pensée économique occidentale a complètement ignoré la métamorphose de la science depuis la double révolution intellectuelle de Carnot et Darwin : la découverte de l'entropie et de l'évolution. Dans cet ouvrage de référence, Nicholas Georgescu-Roegen met l'accent sur les axes négligés de la pensée économique et dévoile une vérité écologique importante : le développement ne saurait se poursuivre sans une restructuration et une réorientation radicale de l'économie.<br>Economiste et mathématicien de renom, Nicholas Georgescu-Roegen a été à l'origine du mouvement de la décroissance, dont cet ouvrage phare est sans conteste le manifeste. A l'heure où l'urgence climatique se fait de plus en plus pressante, il est nécessaire de relire ce livre aux accents prophétiques.|
@@ -91,6 +132,72 @@ Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 
 --- 
+
+| | |
+| --- | --- |
+|<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Photos/la_decroissance.jpg" alt="text" width="1500px"/> | <p align=center>LA CONSOMMATION DONT VOUS ÊTES LE Z’HÉROS<br>Florence Léa Siry</p> <br> Le mode de vie zéro déchet prend de l'ampleur partout dans le monde. Confronté au phénomène, vous vous dites bien sûr que vous seriez un meilleur être humain si vous vous y mettiez... mais vous ne savez pas comment vous y prendre? Si l'idée même de supprimer les produits d'emballage de votre vie vous terrorise, ce livre a été spécifiquement pensé pour vous! Grâce à son approche sympathique, flexible et décomplexée, Florence-Léa Siry tend la main à tous ceux qui ont de bonnes intentions, mais ne savent pas par où commencer. Son but: vous aider à changer vos habitudes de consommation et vous inciter à réduire vos déchets grâce à des initiatives simples que vous pourrez adopter à votre propre rythme. Rempli d'humour, ce guide d'astuces et de projets DIY qui sortent de l'ordinaire vous invite à intégrer au quotidien des petits gestes qui feront de vous le z'héros de la consommation responsable que VOUS voulez être!|
+| | |
+
+
+
+<details>
+  <summary>Clique ici pour voir les témoignages sur MINIMAL : LA CONSOMMATION DONT VOUS ÊTES LE Z’HÉROS!</summary>
+
+> Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
+ 
+</details>
+
+
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
+
+--- 
+
+| | |
+| --- | --- |
+|<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Photos/la_decroissance.jpg" alt="text" width="1500px"/> | <p align=center>MINIMAL : POUR UN MODE DE VIE DURABLE<br> Stéphanie Mandréa, Laurie Barrette</p> <br> Minimal : pour un mode de vie durable est un guide pratique inspirant destiné à ceux et celles qui veulent simplifier leur vie, mais également repenser leur environnement de manière plus durable. Les deux adeptes d'art de vivre écoresponsable et fondatrices de Dans le sac, Stéphanie Mandrea et Laurie Barrette, veulent avec cet ouvrage amener le lecteur à prendre conscience de tous les gestes minimes qu'il peut faire pour diminuer l'impact de son mode de vie sur la nature. Que ce soit magasiner en vrac, refuser le suremballage, restaurer nos vieux meubles, composter ou faire nos propres produits ménagers, il y a dans ce guide une foule de façons de faire une différence au quotidien. |
+| | |
+
+
+
+<details>
+  <summary>Clique ici pour voir les témoignages sur MINIMAL : POUR UN MODE DE VIE DURABLE!</summary>
+
+> Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
+ 
+</details>
+
+
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
+
+--- 
+
+
+* *EN AS-TU VRAIMENT BESOIN?* <br>– Pierre-Yves Mcsween
+
+
+| | |
+| --- | --- |
+|<img src="/Fichiers_necessaires_au_fonctionnement_du_recueil/Livres/Photos/eloge_de_la_simplicite_volontaire.jpg" alt="text" width="1500px"/> | <p align=center>EN AS-TU VRAIMENT BESOIN?<br>Pierre-Yves Mcsween</p> <br> En as-tu besoin? En as-tu vraiment besoin? Dans cet ouvrage capital où le chroniqueur affaires et économie de Paul Arcand passe dans son tordeur une quarantaine de sujets avec perspicacité et humour, cette question toute simple invite à revoir toutes les décisions qui ont un effet direct sur notre compte de banque. Au Québec, l'analphabétisme financier et la consommation à outrance influent négativement sur l'existence de chacun. Pour aider à voir les choses d'un oeil neuf, En as-tu vraiment besoin? place un miroir réaliste devant nos choix de vie et leurs conséquences. L'auteur y remet en question notre façon de dépenser et insiste sur la nécessité de se construire une marge de manoeuvre financière. Cette lecture ne laissera personne indifférent. Pierre-Yves McSween parle d'argent sans filtre et sans tabou, comme on ne l'a jamais fait auparavant dans un livre sur le sujet. Il propose de brillants mécanismes d'autodéfense contre la société de consommation et la naïveté financière. Avec deux grands objectifs en tête: définir le comportement d'un citoyen responsable financièrement; puis, donner au lecteur, enfin, un peu plus de cette liberté dont il a vraiment, tellement, carrément besoin.|
+| | |
+
+
+
+<details>
+  <summary>Clique ici pour voir les témoignages sur EN AS-TU VRAIMENT BESOIN?!</summary>
+
+> Laisse ton propre témoignage en cliquant [ici](https://forms.gle/eB2ZwrYTwWHfYcTJ6)
+ 
+</details>
+
+Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
+
+
+
+---
 
 
 | | |
@@ -184,25 +291,3 @@ Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 Retour à [l'accueil](/Accueil_Recueil_Vert_(clique_ici).md)
 
 ---
-
-
-
-
-
-
-
-### Zéro déchet
-
-*  _POUR UNE GARDE ROBE RESPONSABLE_ <br>– Léonie Daignault-Leclerc
-
-* _MINIMAL : POUR UN MODE DE VIE DURABLE_ <br>– Stéphanie Mandréa, Laurie Barrette
-
-* _TENDRE VERS LE ZÉRO DÉCHET_ <br>– Mélissa de la Fontaine
-
-* _LA CONSOMMATION DONT VOUS ÊTES LE Z’HÉROS_ <br>– Florence Léa Siry
-
-* _UN FUTUR RENOUVELABLE_ <br>– Richard Heinberg, David Fridley
-
-* *EN AS-TU VRAIMENT BESOIN?* <br>– Pierre-Yves Mcsween
-
-
